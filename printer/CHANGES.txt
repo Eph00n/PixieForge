@@ -1,1 +1,33 @@
+01.08.2024 release r2
+-build_plate_mount_A_2: changed print direction and slightly modified geometry to be printable without supports
+-build_plate_mount_B_2: added clearance for wire bulge on keenovo silicone heatmats
+-cooling_nozzle_3: smoothed airflow path and simplified CAD-model
+-extruder_mount_2: changed clearance between extruder motor and electronics compartment
+-integrated_duct_3: smoothed airflow path to part cooling nozzle
+-y_idler_mount_2: replaced socket head screw with countersunk screw to add more clearance between the part and the build plate
+
 19.05.2024 initial release r1
+-belt_screw_block_1
+-build_plate_mount_A_1
+-build_plate_mount_B_1
+-cooling_nozzle_2
+-e_bay_2
+-e_bay_cover_1
+-extruder_mount_1
+-fan_mount_1
+-foot_1
+-integrated_duct_2
+-joint_female_2
+-joint_male_2
+-pico_holder_1
+-x_belt_mount_1
+-x_bumper_1
+-x_idler_holder_1
+-x_idler_mount_2
+-x_motor_mount_2
+-y_belt_mount_1
+-y_idler_holder_1
+-y_idler_mount_1
+-y_motor_mount_2
+-yz_crossplate_1
+-z_motor_mount_3
