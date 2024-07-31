@@ -1,4 +1,5 @@
 01.08.2024 release r2
+-general: added aluminium braceplates on z tower to improve torsion resistance during x moves
 -build_plate_mount_A_2: changed print direction and slightly modified geometry to be printable without supports
 -build_plate_mount_B_2: added clearance for wire bulge on keenovo silicone heatmats
 -cooling_nozzle_3: smoothed airflow path and simplified CAD-model
