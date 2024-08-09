@@ -1,3 +1,6 @@
+intermittent changes:
+-cooling_nozzle_4: increased clearance between cooling nozzle and print surface
+
 01.08.2024 release r2
 -general: added aluminium braceplates on z tower to improve torsion resistance during x moves
 -build_plate_mount_A_2: changed print direction and slightly modified geometry to be printable without supports
